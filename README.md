@@ -58,5 +58,6 @@ Oral-Cancer-Detection/
 
 ## 📸 Screenshots
 <img width="796" height="691" alt="image" src="https://github.com/user-attachments/assets/71bbe518-74f4-4e09-a623-cc4d8a78ddcf" />
+<img width="844" height="648" alt="Screenshot 2026-04-19 102303" src="https://github.com/user-attachments/assets/074da4e1-0fd1-48e1-a124-35d70d8cefa9" />
 
 
